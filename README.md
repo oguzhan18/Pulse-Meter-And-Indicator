@@ -9,17 +9,17 @@ This application I made with JavaScript shows the values ​​of human heart an
 - Arduino compatible
 - Can be improved
 ## Important
-Enter the variables of the Arduino PULSE heart rate card. Because the graphical interface works accordingly.
-#
-<img src="nabız.PNG">
-#
-## Codpen.io
+- Enter the variables of the Arduino PULSE heart rate card. Because the graphical interface works accordingly.
+# <img src="nabız.PNG"/>
+
+
+- Codpen.io
 [Codpen account link](https://codepen.io/oguzhan1881)
-## Github Account Link
+- Github Account Link
 [Github account link](https://github.com/oguzhan18)
-## Mail
+- Mail
 oguzhancart1@gmail.com
-# Instagram Account Link
+- Instagram Account Link
 [Instagram account](https://www.instagram.com/oguzhan_cart/)
 
 <a target="_blank" href="https://www.instagram.com/oguzhan_cart/">
